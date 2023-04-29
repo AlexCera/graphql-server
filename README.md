@@ -1,9 +1,9 @@
 # Graphql with simple Nodejs and  Express App
 (English)
 This a simple project to practice Graphql, the information (data) contained in the project refers to Airbus and Boeing **aircraft models**.
+
 (Spanish)
 Este es un proyecto simple para practicar Graphql, la información (datos) contenida en el proyecto se refiere a modelos de aviones Airbus y Boeing.
-
 ## ¿How to use the project?
 Follow the following steps in detail:
 ```sh
@@ -98,3 +98,4 @@ fragment planeStructure on Plane{
 ```sh
 { hello } 
 ```
+[Check the example in detail here.](https://graphql.org/graphql-js/running-an-express-graphql-server/)
