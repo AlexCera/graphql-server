@@ -1,0 +1,40 @@
+{
+    "planes": [
+        {
+            "id": 1,
+            "model": "A320",
+            "status": "In service",
+            "manufacturer": "Airbus",
+            "firstFlight": "February 22, 1987",
+            "production": "1981-present",
+            "type": "Passenger aircraft"
+        },
+        {
+            "id": 2,
+            "model": "A350",
+            "status": "In service",
+            "manufacturer": "Airbus",
+            "firstFlight": "June 14, 2013",
+            "production": "2010-present",
+            "type": "Passenger aircraft"
+        },
+        {
+            "id": 3,
+            "model": "A380",
+            "status": "In service",
+            "manufacturer": "Airbus",
+            "firstFlight": "April 27, 2005",
+            "production": "1981-present",
+            "type": "Passenger aircraft"
+        },
+        {
+            "id": 4,
+            "model": "B747",
+            "status": "In service",
+            "manufacturer": "Boening",
+            "firstFlight": "",
+            "production": "",
+            "type": "Passenger aircraft"
+        }
+    ]
+}
